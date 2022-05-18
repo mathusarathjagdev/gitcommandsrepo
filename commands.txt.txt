@@ -2,3 +2,5 @@ git init=>initializing git in current folder
 git status=>list all the untracked files
 git add -A=>add all files to the staging area
 git commit -m "msg"=> adding all untracked files to loca;l repository
+git remote add name path=>add remote repositary to local
+git push -u name master
