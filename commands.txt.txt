@@ -1,3 +1,4 @@
 git init=>initializing git in current folder
 git status=>list all the untracked files
-git add=>add all files to the staging area
+git add -A=>add all files to the staging area
+git commit -m "msg"=> adding all untracked files to loca;l repository
